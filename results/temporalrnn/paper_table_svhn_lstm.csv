@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,temporalrnn
+svhn,lstm,0.1,0.8512 / 89.60
+svhn,lstm,0.2,0.8283 / 90.00
+

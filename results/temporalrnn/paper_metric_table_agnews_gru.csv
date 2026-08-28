@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,avg_diversity_temporalrnn,avg_precision_temporalrnn
+agnews,gru,0.1,12.0,0.5540204678362574
+agnews,gru,0.2,12.0,0.5002558479532164
+

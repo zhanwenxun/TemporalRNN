@@ -1,0 +1,4 @@
+budget_ratio,strategy,avg_precision,avg_diversity,avg_combined_f1_optional
+0.1,temporalrnn,0.7219318017265386,57.54666666666667,0.8196480531588416
+0.2,temporalrnn,0.674298649401281,59.27777777777778,0.7950771850424442
+

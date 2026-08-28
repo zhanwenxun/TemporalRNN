@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,temporalrnn
+agnews,blstm,0.1,0.5433 / 12.00
+agnews,blstm,0.2,0.4977 / 12.00
+

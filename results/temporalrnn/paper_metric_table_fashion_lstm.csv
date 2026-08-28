@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,avg_diversity_temporalrnn,avg_precision_temporalrnn
+fashion,lstm,0.1,76.66666666666667,0.773
+fashion,lstm,0.2,81.1,0.7351111111111112
+

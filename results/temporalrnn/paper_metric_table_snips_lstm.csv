@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,avg_diversity_temporalrnn,avg_precision_temporalrnn
+snips,lstm,0.1,38.1,0.6101666666666666
+snips,lstm,0.2,40.0,0.5197499999999999
+

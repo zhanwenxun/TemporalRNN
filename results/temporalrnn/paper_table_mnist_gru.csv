@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,temporalrnn
+mnist,gru,0.1,0.8093 / 88.03
+mnist,gru,0.2,0.7665 / 89.43
+

@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,avg_diversity_temporalrnn,avg_precision_temporalrnn
+mnist,gru,0.1,88.03333333333333,0.8093333333333333
+mnist,gru,0.2,89.43333333333334,0.7665000000000001
+

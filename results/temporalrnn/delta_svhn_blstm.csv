@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,strategy,avg_precision,std_precision,avg_diversity,std_diversity,avg_selected_failed,avg_selected_count,avg_total_failed,avg_total_diversity,avg_recall_optional,avg_diversity_recall_optional,avg_combined_f1_optional,baseline_precision,baseline_diversity,baseline_strategy,delta_precision,delta_diversity,relative_precision_pct,relative_diversity_pct,precision_drop_flag,diversity_gain_flag
+svhn,blstm,0.1,temporalrnn,0.8452857142857143,0.014413956408234844,44.8,0.4068381021724867,591.7,700.0,5946.566666666667,45.0,0.0995013159015335,0.9955555555555555,0.9142121614873403,0.8452857142857143,44.8,temporalrnn,0.0,0.0,0.0,0.0,False,False
+svhn,blstm,0.2,temporalrnn,0.8406904761904762,0.008360464864001292,45.0,0.0,1176.9666666666667,1400.0,5946.566666666667,45.0,0.19792421950425768,1.0,0.9134295340709403,0.8406904761904762,45.0,temporalrnn,0.0,0.0,0.0,0.0,False,False
+

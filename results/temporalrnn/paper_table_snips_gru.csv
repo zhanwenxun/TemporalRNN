@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,temporalrnn
+snips,gru,0.1,0.7108 / 37.63
+snips,gru,0.2,0.6229 / 39.67
+

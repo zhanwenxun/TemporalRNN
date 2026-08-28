@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,strategy,avg_precision,std_precision,avg_diversity,std_diversity,avg_selected_failed,avg_selected_count,avg_total_failed,avg_total_diversity,avg_recall_optional,avg_diversity_recall_optional,avg_combined_f1_optional,baseline_precision,baseline_diversity,baseline_strategy,delta_precision,delta_diversity,relative_precision_pct,relative_diversity_pct,precision_drop_flag,diversity_gain_flag
+agnews,lstm,0.1,temporalrnn,0.5659356725146198,0.024460278527797037,12.0,0.0,258.06666666666666,456.0,1030.8666666666666,12.0,0.2504040121055376,1.0,0.7225095871021485,0.5659356725146198,12.0,temporalrnn,0.0,0.0,0.0,0.0,False,False
+agnews,lstm,0.2,temporalrnn,0.5120979532163743,0.016527791211680905,12.0,0.0,467.03333333333336,912.0,1030.8666666666666,12.0,0.4531744966069313,1.0,0.6771819640294656,0.5120979532163743,12.0,temporalrnn,0.0,0.0,0.0,0.0,False,False
+

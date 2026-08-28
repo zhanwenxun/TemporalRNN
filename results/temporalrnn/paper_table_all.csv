@@ -1,0 +1,32 @@
+dataset,model,budget_ratio,temporalrnn
+agnews,blstm,0.1,0.5433 / 12.00
+agnews,blstm,0.2,0.4977 / 12.00
+agnews,gru,0.1,0.5540 / 12.00
+agnews,gru,0.2,0.5003 / 12.00
+agnews,lstm,0.1,0.5659 / 12.00
+agnews,lstm,0.2,0.5121 / 12.00
+fashion,blstm,0.1,0.7699 / 74.60
+fashion,blstm,0.2,0.7190 / 79.00
+fashion,gru,0.1,0.7506 / 76.63
+fashion,gru,0.2,0.7045 / 80.17
+fashion,lstm,0.1,0.7730 / 76.67
+fashion,lstm,0.2,0.7351 / 81.10
+mnist,blstm,0.1,0.8111 / 87.23
+mnist,blstm,0.2,0.7711 / 89.07
+mnist,gru,0.1,0.8093 / 88.03
+mnist,gru,0.2,0.7665 / 89.43
+mnist,lstm,0.1,0.7608 / 87.53
+mnist,lstm,0.2,0.7237 / 89.57
+snips,blstm,0.1,0.6392 / 37.20
+snips,blstm,0.2,0.5647 / 40.20
+snips,gru,0.1,0.7108 / 37.63
+snips,gru,0.2,0.6229 / 39.67
+snips,lstm,0.1,0.6102 / 38.10
+snips,lstm,0.2,0.5197 / 40.00
+svhn,blstm,0.1,0.8453 / 44.80
+svhn,blstm,0.2,0.8407 / 45.00
+svhn,gru,0.1,0.8344 / 89.17
+svhn,gru,0.2,0.8081 / 89.97
+svhn,lstm,0.1,0.8512 / 89.60
+svhn,lstm,0.2,0.8283 / 90.00
+

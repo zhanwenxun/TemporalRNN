@@ -1,0 +1,4 @@
+dataset,model,budget_ratio,strategy,avg_precision,std_precision,avg_diversity,std_diversity,avg_selected_failed,avg_selected_count,avg_total_failed,avg_total_diversity,avg_recall_optional,avg_diversity_recall_optional,avg_combined_f1_optional
+agnews,blstm,0.1,temporalrnn,0.5432748538011697,0.016278201753664005,12.0,0.0,247.73333333333332,456.0,933.2,12.0,0.26562596813875133,1.0,0.7039148051316313
+agnews,blstm,0.2,temporalrnn,0.4976973684210526,0.012726564824595835,12.0,0.0,453.9,912.0,933.2,12.0,0.4866181588165547,1.0,0.6645235970866138
+
